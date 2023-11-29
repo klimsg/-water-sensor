@@ -12,8 +12,8 @@ from multiprocessing import Process
 from queue import Queue
 from threading import Thread
 
-Token = '6660578623:AAGjC0Majly1L2-toXRTWzMwjhKK5ovJHug'
-chat_id = "5143103884"
+Token = ''
+chat_id = ""
 bot = telebot.TeleBot(Token)
 
 
